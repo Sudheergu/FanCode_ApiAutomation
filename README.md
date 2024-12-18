@@ -18,7 +18,7 @@ This project automates testing for the FanCode city's user todo tasks using vari
 
 Before you start, ensure you have the following installed on your machine:
 
-- **Java 8 or higher**
+- **Java 17 or higher**
 - **Maven** (for dependency management)
 - **IDE** (e.g., IntelliJ IDEA or Eclipse)
 - **Git** (for cloning the repository)
