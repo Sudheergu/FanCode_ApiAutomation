@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Automation Suite">
+    <test name="Todo Task Completion Test">
+        <classes>
+            <class name="com.fanCodeApi.tests.TodoTest"/>
+        </classes>
+    </test>
+</suite>
