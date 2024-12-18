@@ -38,7 +38,7 @@ cd fanCodeApiAutomation
 Ensure that Maven is installed. If not, follow the installation guide on the official website.
 
 Once Maven is installed, navigate to the project directory and run the following command to install the dependencies:
-mvn clean install
+  mvn clean install
 This will download all necessary dependencies for the project.
 
 --Execute the following Maven command to run the tests:
