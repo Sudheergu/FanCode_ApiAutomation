@@ -20,7 +20,7 @@ Before you start, ensure you have the following installed on your machine:
 
 - **Java 17 or higher**
 - **Maven** (for dependency management)
-- **IDE** (e.g., IntelliJ IDEA or Eclipse)
+- **IDE** (e.g., IntelliJ IDEA , Eclipse or Aqua IDE )
 - **Git** (for cloning the repository)
 - **Internet Access** (to fetch dependencies and run the tests)
 
