@@ -76,6 +76,7 @@ fanCodeApiAutomation/
 ├── extent-report.html                <-- Generated Extent report                  
 ├── pom.xml                           <-- Maven project file
 └── README.md                         <-- This file
+
 Additional Notes
 Logging: Log4j2 is used for logging. The log4j2.xml configuration file is located under src/main/resources/ and controls logging output to the console and a file.
 Test Execution: Ensure that the base URI and endpoints are correctly set in the BaseTest.java class.
